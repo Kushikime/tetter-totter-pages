@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/teeter-totter-pages/static/css/main.727a91d5.chunk.css",
+    "main.js": "/teeter-totter-pages/static/js/main.6b21285a.chunk.js",
+    "main.js.map": "/teeter-totter-pages/static/js/main.6b21285a.chunk.js.map",
+    "runtime-main.js": "/teeter-totter-pages/static/js/runtime-main.ca24e0d6.js",
+    "runtime-main.js.map": "/teeter-totter-pages/static/js/runtime-main.ca24e0d6.js.map",
+    "static/js/2.999aa727.chunk.js": "/teeter-totter-pages/static/js/2.999aa727.chunk.js",
+    "static/js/2.999aa727.chunk.js.map": "/teeter-totter-pages/static/js/2.999aa727.chunk.js.map",
+    "static/js/3.62154c4d.chunk.js": "/teeter-totter-pages/static/js/3.62154c4d.chunk.js",
+    "static/js/3.62154c4d.chunk.js.map": "/teeter-totter-pages/static/js/3.62154c4d.chunk.js.map",
+    "index.html": "/teeter-totter-pages/index.html",
+    "static/css/main.727a91d5.chunk.css.map": "/teeter-totter-pages/static/css/main.727a91d5.chunk.css.map",
+    "static/js/2.999aa727.chunk.js.LICENSE.txt": "/teeter-totter-pages/static/js/2.999aa727.chunk.js.LICENSE.txt",
+    "static/media/pause.7059db03.svg": "/teeter-totter-pages/static/media/pause.7059db03.svg",
+    "static/media/start.74daff10.svg": "/teeter-totter-pages/static/media/start.74daff10.svg",
+    "static/media/content.scss": "/teeter-totter-pages/static/media/voolcanoBG.d54a6f17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca24e0d6.js",
+    "static/js/2.999aa727.chunk.js",
+    "static/css/main.727a91d5.chunk.css",
+    "static/js/main.6b21285a.chunk.js"
+  ]
+}
