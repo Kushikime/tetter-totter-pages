@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tetter-totter-pages/static/css/main.aacb9cad.chunk.css",
-    "main.js": "/tetter-totter-pages/static/js/main.52bc3335.chunk.js",
-    "main.js.map": "/tetter-totter-pages/static/js/main.52bc3335.chunk.js.map",
+    "main.js": "/tetter-totter-pages/static/js/main.549fd6f1.chunk.js",
+    "main.js.map": "/tetter-totter-pages/static/js/main.549fd6f1.chunk.js.map",
     "runtime-main.js": "/tetter-totter-pages/static/js/runtime-main.6b4e58c9.js",
     "runtime-main.js.map": "/tetter-totter-pages/static/js/runtime-main.6b4e58c9.js.map",
     "static/js/2.999aa727.chunk.js": "/tetter-totter-pages/static/js/2.999aa727.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6b4e58c9.js",
     "static/js/2.999aa727.chunk.js",
     "static/css/main.aacb9cad.chunk.css",
-    "static/js/main.52bc3335.chunk.js"
+    "static/js/main.549fd6f1.chunk.js"
   ]
 }
